@@ -1,0 +1,42 @@
+var EntityLogicalName = "entitlement";
+var Form_b1b386f2_c1f3_4d38_bd64_87b9021e24c5_Properties = {
+allocationtypecode: "allocationtypecode"
+,customerid: "customerid"
+,decreaseremainingon: "decreaseremainingon"
+,description: "description"
+,enddate: "enddate"
+,isdefault: "isdefault"
+,name: "name"
+,ownerid: "ownerid"
+,remainingterms: "remainingterms"
+,restrictcasecreation: "restrictcasecreation"
+,slaid: "slaid"
+,startdate: "startdate"
+,statecode: "statecode"
+,totalterms: "totalterms"
+};
+
+var Form_b1b386f2_c1f3_4d38_bd64_87b9021e24c5_Controls = {
+allocationtypecode: "allocationtypecode"
+,customerid: "customerid"
+,decreaseremainingon: "decreaseremainingon"
+,description: "description"
+,enddate: "enddate"
+,grid_EntitlementChannel: "grid_EntitlementChannel"
+,grid_EntitlementContacts: "grid_EntitlementContacts"
+,grid_EntitlementProducts: "grid_EntitlementProducts"
+,header_customerid: "header_customerid"
+,header_enddate: "header_enddate"
+,header_remainingterms: "header_remainingterms"
+,header_statecode: "header_statecode"
+,isdefault: "isdefault"
+,name: "name"
+,notescontrol: "notescontrol"
+,ownerid: "ownerid"
+,remainingterms: "remainingterms"
+,restrictcasecreation: "restrictcasecreation"
+,slaid: "slaid"
+,startdate: "startdate"
+,totalterms: "totalterms"
+};
+

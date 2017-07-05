@@ -1,0 +1,502 @@
+{
+  "_pluginTypes": [
+    {
+      "_steps": [],
+      "LogicalName": "plugintype",
+      "PluginClassType": 1,
+      "ConfigurationIsSupplied": true,
+      "Id": "ef521e63-cd2b-4170-99f6-447466a7161e",
+      "Attributes": [
+        {
+          "Key": "minor",
+          "Value": {"$type":"System.Int32","$value":0}
+        },
+        {
+          "Key": "ismanaged",
+          "Value": {"$type":"System.Boolean","$value":true}
+        },
+        {
+          "Key": "modifiedon",
+          "Value": "2017-07-03T01:35:56Z"
+        },
+        {
+          "Key": "modifiedonbehalfby",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+        },
+        {
+          "Key": "assemblyname",
+          "Value": "Microsoft.Crm.ServiceBus"
+        },
+        {
+          "Key": "createdonbehalfby",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+        },
+        {
+          "Key": "publickeytoken",
+          "Value": "31bf3856ad364e35"
+        },
+        {
+          "Key": "friendlyname",
+          "Value": "ServiceBusPlugin"
+        },
+        {
+          "Key": "customizationlevel",
+          "Value": {"$type":"System.Int32","$value":0}
+        },
+        {
+          "Key": "organizationid",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"f08a9f71-03e8-4e91-9930-7d9af30a2252"},"LogicalName":"organization","KeyAttributes":[]}
+        },
+        {
+          "Key": "createdby",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+        },
+        {
+          "Key": "pluginassemblyid",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"a430b185-d19d-428c-b156-5ebe3f391564"},"LogicalName":"pluginassembly","Name":"Microsoft.Crm.ServiceBus","KeyAttributes":[]}
+        },
+        {
+          "Key": "plugintypeidunique",
+          "Value": {"$type":"System.Guid","$value":"7193ca6e-b296-4b6e-ace3-d0dd199f4721"}
+        },
+        {
+          "Key": "componentstate",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+        },
+        {
+          "Key": "major",
+          "Value": {"$type":"System.Int32","$value":0}
+        },
+        {
+          "Key": "plugintypeid",
+          "Value": {"$type":"System.Guid","$value":"ef521e63-cd2b-4170-99f6-447466a7161e"}
+        },
+        {
+          "Key": "culture",
+          "Value": "neutral"
+        },
+        {
+          "Key": "modifiedby",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+        },
+        {
+          "Key": "version",
+          "Value": "0.0.0.0"
+        },
+        {
+          "Key": "typename",
+          "Value": "Microsoft.Crm.ServiceBus.ServiceBusPlugin"
+        },
+        {
+          "Key": "solutionid",
+          "Value": {"$type":"System.Guid","$value":"fd140aad-4df4-11dd-bd17-0019b9312238"}
+        },
+        {
+          "Key": "isworkflowactivity",
+          "Value": {"$type":"System.Boolean","$value":false}
+        },
+        {
+          "Key": "createdon",
+          "Value": "2017-07-03T01:35:56Z"
+        },
+        {
+          "Key": "name",
+          "Value": "Microsoft.Crm.ServiceBus.ServiceBusPlugin"
+        }
+      ],
+      "FormattedValues": [
+        {
+          "Key": "minor",
+          "Value": "0"
+        },
+        {
+          "Key": "ismanaged",
+          "Value": "Managed"
+        },
+        {
+          "Key": "modifiedon",
+          "Value": "7/3/2017 11:35 AM"
+        },
+        {
+          "Key": "modifiedonbehalfby",
+          "Value": "SYSTEM"
+        },
+        {
+          "Key": "createdonbehalfby",
+          "Value": "SYSTEM"
+        },
+        {
+          "Key": "customizationlevel",
+          "Value": "0"
+        },
+        {
+          "Key": "organizationid",
+          "Value": null
+        },
+        {
+          "Key": "createdby",
+          "Value": "SYSTEM"
+        },
+        {
+          "Key": "pluginassemblyid",
+          "Value": "Microsoft.Crm.ServiceBus"
+        },
+        {
+          "Key": "componentstate",
+          "Value": "Published"
+        },
+        {
+          "Key": "major",
+          "Value": "0"
+        },
+        {
+          "Key": "modifiedby",
+          "Value": "SYSTEM"
+        },
+        {
+          "Key": "isworkflowactivity",
+          "Value": "No"
+        },
+        {
+          "Key": "createdon",
+          "Value": "7/3/2017 11:35 AM"
+        }
+      ],
+      "RelatedEntities": [],
+      "KeyAttributes": []
+    },
+    {
+      "_steps": [],
+      "LogicalName": "plugintype",
+      "PluginClassType": 1,
+      "ConfigurationIsSupplied": true,
+      "Id": "be44de88-4f72-4943-870b-c9f93205b25c",
+      "Attributes": [
+        {
+          "Key": "minor",
+          "Value": {"$type":"System.Int32","$value":0}
+        },
+        {
+          "Key": "ismanaged",
+          "Value": {"$type":"System.Boolean","$value":true}
+        },
+        {
+          "Key": "modifiedon",
+          "Value": "2017-07-03T01:35:56Z"
+        },
+        {
+          "Key": "modifiedonbehalfby",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+        },
+        {
+          "Key": "assemblyname",
+          "Value": "Microsoft.Crm.ServiceBus"
+        },
+        {
+          "Key": "createdonbehalfby",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+        },
+        {
+          "Key": "publickeytoken",
+          "Value": "31bf3856ad364e35"
+        },
+        {
+          "Key": "friendlyname",
+          "Value": "ServiceBusCheckPlugin"
+        },
+        {
+          "Key": "customizationlevel",
+          "Value": {"$type":"System.Int32","$value":0}
+        },
+        {
+          "Key": "organizationid",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"f08a9f71-03e8-4e91-9930-7d9af30a2252"},"LogicalName":"organization","KeyAttributes":[]}
+        },
+        {
+          "Key": "createdby",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+        },
+        {
+          "Key": "pluginassemblyid",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"a430b185-d19d-428c-b156-5ebe3f391564"},"LogicalName":"pluginassembly","Name":"Microsoft.Crm.ServiceBus","KeyAttributes":[]}
+        },
+        {
+          "Key": "plugintypeidunique",
+          "Value": {"$type":"System.Guid","$value":"d24c35d5-ca71-4b47-9c45-56c1edbfca6a"}
+        },
+        {
+          "Key": "componentstate",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+        },
+        {
+          "Key": "major",
+          "Value": {"$type":"System.Int32","$value":0}
+        },
+        {
+          "Key": "plugintypeid",
+          "Value": {"$type":"System.Guid","$value":"be44de88-4f72-4943-870b-c9f93205b25c"}
+        },
+        {
+          "Key": "culture",
+          "Value": "neutral"
+        },
+        {
+          "Key": "modifiedby",
+          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+        },
+        {
+          "Key": "version",
+          "Value": "0.0.0.0"
+        },
+        {
+          "Key": "typename",
+          "Value": "Microsoft.Crm.ServiceBus.ServiceBusCheckPlugin"
+        },
+        {
+          "Key": "solutionid",
+          "Value": {"$type":"System.Guid","$value":"fd140aad-4df4-11dd-bd17-0019b9312238"}
+        },
+        {
+          "Key": "isworkflowactivity",
+          "Value": {"$type":"System.Boolean","$value":false}
+        },
+        {
+          "Key": "createdon",
+          "Value": "2017-07-03T01:35:56Z"
+        },
+        {
+          "Key": "name",
+          "Value": "Microsoft.Crm.ServiceBus.ServiceBusCheckPlugin"
+        }
+      ],
+      "FormattedValues": [
+        {
+          "Key": "minor",
+          "Value": "0"
+        },
+        {
+          "Key": "ismanaged",
+          "Value": "Managed"
+        },
+        {
+          "Key": "modifiedon",
+          "Value": "7/3/2017 11:35 AM"
+        },
+        {
+          "Key": "modifiedonbehalfby",
+          "Value": "SYSTEM"
+        },
+        {
+          "Key": "createdonbehalfby",
+          "Value": "SYSTEM"
+        },
+        {
+          "Key": "customizationlevel",
+          "Value": "0"
+        },
+        {
+          "Key": "organizationid",
+          "Value": null
+        },
+        {
+          "Key": "createdby",
+          "Value": "SYSTEM"
+        },
+        {
+          "Key": "pluginassemblyid",
+          "Value": "Microsoft.Crm.ServiceBus"
+        },
+        {
+          "Key": "componentstate",
+          "Value": "Published"
+        },
+        {
+          "Key": "major",
+          "Value": "0"
+        },
+        {
+          "Key": "modifiedby",
+          "Value": "SYSTEM"
+        },
+        {
+          "Key": "isworkflowactivity",
+          "Value": "No"
+        },
+        {
+          "Key": "createdon",
+          "Value": "7/3/2017 11:35 AM"
+        }
+      ],
+      "RelatedEntities": [],
+      "KeyAttributes": []
+    }
+  ],
+  "LogicalName": "pluginassembly",
+  "Id": "a430b185-d19d-428c-b156-5ebe3f391564",
+  "Attributes": [
+    {
+      "Key": "organizationid",
+      "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"f08a9f71-03e8-4e91-9930-7d9af30a2252"},"LogicalName":"organization","KeyAttributes":[]}
+    },
+    {
+      "Key": "iscustomizable",
+      "Value": {"$type":"Microsoft.Xrm.Sdk.BooleanManagedProperty, Microsoft.Xrm.Sdk","Value":{"$type":"System.Boolean","$value":true},"CanBeChanged":{"$type":"System.Boolean","$value":true},"ManagedPropertyLogicalName":"iscustomizableanddeletable"}
+    },
+    {
+      "Key": "componentstate",
+      "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+    },
+    {
+      "Key": "solutionid",
+      "Value": {"$type":"System.Guid","$value":"fd140aad-4df4-11dd-bd17-0019b9312238"}
+    },
+    {
+      "Key": "modifiedonbehalfby",
+      "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+    },
+    {
+      "Key": "introducedversion",
+      "Value": "5.0.0.0"
+    },
+    {
+      "Key": "publickeytoken",
+      "Value": "31bf3856ad364e35"
+    },
+    {
+      "Key": "createdonbehalfby",
+      "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+    },
+    {
+      "Key": "customizationlevel",
+      "Value": {"$type":"System.Int32","$value":0}
+    },
+    {
+      "Key": "ismanaged",
+      "Value": {"$type":"System.Boolean","$value":true}
+    },
+    {
+      "Key": "pluginassemblyid",
+      "Value": {"$type":"System.Guid","$value":"a430b185-d19d-428c-b156-5ebe3f391564"}
+    },
+    {
+      "Key": "minor",
+      "Value": {"$type":"System.Int32","$value":0}
+    },
+    {
+      "Key": "pluginassemblyidunique",
+      "Value": {"$type":"System.Guid","$value":"7eebf7af-2b7a-4979-a5bf-f1c44aca91aa"}
+    },
+    {
+      "Key": "major",
+      "Value": {"$type":"System.Int32","$value":0}
+    },
+    {
+      "Key": "sourcetype",
+      "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":2}}
+    },
+    {
+      "Key": "isolationmode",
+      "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":1}}
+    },
+    {
+      "Key": "culture",
+      "Value": "neutral"
+    },
+    {
+      "Key": "modifiedby",
+      "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+    },
+    {
+      "Key": "version",
+      "Value": "0.0.0.0"
+    },
+    {
+      "Key": "ishidden",
+      "Value": {"$type":"Microsoft.Xrm.Sdk.BooleanManagedProperty, Microsoft.Xrm.Sdk","Value":{"$type":"System.Boolean","$value":true},"CanBeChanged":{"$type":"System.Boolean","$value":true},"ManagedPropertyLogicalName":"ishidden"}
+    },
+    {
+      "Key": "modifiedon",
+      "Value": "2017-07-03T01:35:55Z"
+    },
+    {
+      "Key": "createdon",
+      "Value": "2017-07-03T01:35:55Z"
+    },
+    {
+      "Key": "name",
+      "Value": "Microsoft.Crm.ServiceBus"
+    },
+    {
+      "Key": "createdby",
+      "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"46925ad3-9e42-485a-ac80-dcb042d3207f"},"LogicalName":"systemuser","Name":"SYSTEM","KeyAttributes":[]}
+    }
+  ],
+  "FormattedValues": [
+    {
+      "Key": "organizationid",
+      "Value": null
+    },
+    {
+      "Key": "iscustomizable",
+      "Value": "True"
+    },
+    {
+      "Key": "componentstate",
+      "Value": "Published"
+    },
+    {
+      "Key": "modifiedonbehalfby",
+      "Value": "SYSTEM"
+    },
+    {
+      "Key": "createdonbehalfby",
+      "Value": "SYSTEM"
+    },
+    {
+      "Key": "customizationlevel",
+      "Value": "0"
+    },
+    {
+      "Key": "ismanaged",
+      "Value": "Managed"
+    },
+    {
+      "Key": "minor",
+      "Value": "0"
+    },
+    {
+      "Key": "major",
+      "Value": "0"
+    },
+    {
+      "Key": "sourcetype",
+      "Value": "Normal"
+    },
+    {
+      "Key": "isolationmode",
+      "Value": "None"
+    },
+    {
+      "Key": "modifiedby",
+      "Value": "SYSTEM"
+    },
+    {
+      "Key": "ishidden",
+      "Value": "True"
+    },
+    {
+      "Key": "modifiedon",
+      "Value": "7/3/2017 11:35 AM"
+    },
+    {
+      "Key": "createdon",
+      "Value": "7/3/2017 11:35 AM"
+    },
+    {
+      "Key": "createdby",
+      "Value": "SYSTEM"
+    }
+  ],
+  "RelatedEntities": [],
+  "KeyAttributes": []
+}

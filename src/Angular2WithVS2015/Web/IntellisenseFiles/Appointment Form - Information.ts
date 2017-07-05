@@ -1,0 +1,41 @@
+var EntityLogicalName = "appointment";
+var Form_f5af0c79_97db_4c3f_8d7e_62b53d9062d4_Properties = {
+category: "category"
+,description: "description"
+,isalldayevent: "isalldayevent"
+,location: "location"
+,optionalattendees: "optionalattendees"
+,organizer: "organizer"
+,ownerid: "ownerid"
+,prioritycode: "prioritycode"
+,regardingobjectid: "regardingobjectid"
+,requiredattendees: "requiredattendees"
+,scheduleddurationminutes: "scheduleddurationminutes"
+,scheduledend: "scheduledend"
+,scheduledstart: "scheduledstart"
+,statuscode: "statuscode"
+,subcategory: "subcategory"
+,subject: "subject"
+};
+
+var Form_f5af0c79_97db_4c3f_8d7e_62b53d9062d4_Controls = {
+attachmentsGrid: "attachmentsGrid"
+,category: "category"
+,description: "description"
+,isalldayevent: "isalldayevent"
+,location: "location"
+,notescontrol: "notescontrol"
+,optionalattendees: "optionalattendees"
+,organizer: "organizer"
+,ownerid: "ownerid"
+,prioritycode: "prioritycode"
+,regardingobjectid: "regardingobjectid"
+,requiredattendees: "requiredattendees"
+,scheduleddurationminutes: "scheduleddurationminutes"
+,scheduledend: "scheduledend"
+,scheduledstart: "scheduledstart"
+,statuscode: "statuscode"
+,subcategory: "subcategory"
+,subject: "subject"
+};
+

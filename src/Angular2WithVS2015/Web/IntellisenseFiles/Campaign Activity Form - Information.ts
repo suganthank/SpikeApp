@@ -1,0 +1,42 @@
+var EntityLogicalName = "campaignactivity";
+var Form_905f0e06_0e3b_430e_b1fc_d3d4f05b0a91_Properties = {
+actualcost: "actualcost"
+,actualend: "actualend"
+,actualstart: "actualstart"
+,budgetedcost: "budgetedcost"
+,channeltypecode: "channeltypecode"
+,description: "description"
+,excludeifcontactedinxdays: "excludeifcontactedinxdays"
+,ownerid: "ownerid"
+,partners: "partners"
+,prioritycode: "prioritycode"
+,regardingobjectid: "regardingobjectid"
+,scheduledend: "scheduledend"
+,scheduledstart: "scheduledstart"
+,statuscode: "statuscode"
+,subject: "subject"
+,transactioncurrencyid: "transactioncurrencyid"
+,typecode: "typecode"
+};
+
+var Form_905f0e06_0e3b_430e_b1fc_d3d4f05b0a91_Controls = {
+actualcost: "actualcost"
+,actualend: "actualend"
+,actualstart: "actualstart"
+,budgetedcost: "budgetedcost"
+,channeltypecode: "channeltypecode"
+,description: "description"
+,excludeifcontactedinxdays: "excludeifcontactedinxdays"
+,notescontrol: "notescontrol"
+,ownerid: "ownerid"
+,partners: "partners"
+,prioritycode: "prioritycode"
+,regardingobjectid: "regardingobjectid"
+,scheduledend: "scheduledend"
+,scheduledstart: "scheduledstart"
+,statuscode: "statuscode"
+,subject: "subject"
+,transactioncurrencyid: "transactioncurrencyid"
+,typecode: "typecode"
+};
+

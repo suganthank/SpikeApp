@@ -1,0 +1,42 @@
+var EntityLogicalName = "contractdetail";
+var Form_c718898a_26f8_4eb3_be12_e6787c660106_Properties = {
+activeon: "activeon"
+,allotmentsremaining: "allotmentsremaining"
+,allotmentsused: "allotmentsused"
+,customerid: "customerid"
+,discount: "discount"
+,discountpercentage: "discountpercentage"
+,expireson: "expireson"
+,initialquantity: "initialquantity"
+,net: "net"
+,price: "price"
+,productid: "productid"
+,productserialnumber: "productserialnumber"
+,rate: "rate"
+,serviceaddress: "serviceaddress"
+,title: "title"
+,totalallotments: "totalallotments"
+,uomid: "uomid"
+};
+
+var Form_c718898a_26f8_4eb3_be12_e6787c660106_Controls = {
+activeon: "activeon"
+,allotmentsremaining: "allotmentsremaining"
+,allotmentsused: "allotmentsused"
+,customerid: "customerid"
+,discount: "discount"
+,discountpercentage: "discountpercentage"
+,expireson: "expireson"
+,initialquantity: "initialquantity"
+,net: "net"
+,notescontrol: "notescontrol"
+,price: "price"
+,productid: "productid"
+,productserialnumber: "productserialnumber"
+,rate: "rate"
+,serviceaddress: "serviceaddress"
+,title: "title"
+,totalallotments: "totalallotments"
+,uomid: "uomid"
+};
+

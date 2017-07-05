@@ -1,0 +1,41 @@
+var EntityLogicalName = "account";
+var Form_74da4947_5d1d_4400_9f99_c6ed578211bb_Properties = {
+address1_composite: "address1_composite"
+,defaultpricelevelid: "defaultpricelevelid"
+,description: "description"
+,emailaddress1: "emailaddress1"
+,fax: "fax"
+,msdyn_billingaccount: "msdyn_billingaccount"
+,msdyn_serviceterritory: "msdyn_serviceterritory"
+,msdyn_workorderinstructions: "msdyn_workorderinstructions"
+,name: "name"
+,ownerid: "ownerid"
+,parentaccountid: "parentaccountid"
+,telephone1: "telephone1"
+,transactioncurrencyid: "transactioncurrencyid"
+,websiteurl: "websiteurl"
+};
+
+var Form_74da4947_5d1d_4400_9f99_c6ed578211bb_Controls = {
+address1_composite: "address1_composite"
+,AGREEMENTS: "AGREEMENTS"
+,ChildAccounts: "ChildAccounts"
+,Contacts: "Contacts"
+,defaultpricelevelid: "defaultpricelevelid"
+,description: "description"
+,emailaddress1: "emailaddress1"
+,fax: "fax"
+,INVOICES: "INVOICES"
+,msdyn_billingaccount: "msdyn_billingaccount"
+,msdyn_serviceterritory: "msdyn_serviceterritory"
+,msdyn_workorderinstructions: "msdyn_workorderinstructions"
+,name: "name"
+,notescontrol: "notescontrol"
+,ownerid: "ownerid"
+,parentaccountid: "parentaccountid"
+,telephone1: "telephone1"
+,transactioncurrencyid: "transactioncurrencyid"
+,websiteurl: "websiteurl"
+,WORKORDERS: "WORKORDERS"
+};
+

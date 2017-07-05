@@ -1,0 +1,42 @@
+var EntityLogicalName = "msdyn_rtvproduct";
+var Form_b564cda2_323f_4f9b_9318_6e8481ea7d15_Properties = {
+msdyn_description: "msdyn_description"
+,msdyn_lineorder: "msdyn_lineorder"
+,msdyn_name: "msdyn_name"
+,msdyn_product: "msdyn_product"
+,msdyn_quantity: "msdyn_quantity"
+,msdyn_rma: "msdyn_rma"
+,msdyn_rmaproduct: "msdyn_rmaproduct"
+,msdyn_rtv: "msdyn_rtv"
+,msdyn_totalcreditamount: "msdyn_totalcreditamount"
+,msdyn_unit: "msdyn_unit"
+,msdyn_unitcreditamount: "msdyn_unitcreditamount"
+,msdyn_warehouse: "msdyn_warehouse"
+,msdyn_workorder: "msdyn_workorder"
+,msdyn_workorderproduct: "msdyn_workorderproduct"
+,ownerid: "ownerid"
+,statecode: "statecode"
+,transactioncurrencyid: "transactioncurrencyid"
+};
+
+var Form_b564cda2_323f_4f9b_9318_6e8481ea7d15_Controls = {
+footer_statecode: "footer_statecode"
+,msdyn_description: "msdyn_description"
+,msdyn_lineorder: "msdyn_lineorder"
+,msdyn_name: "msdyn_name"
+,msdyn_product: "msdyn_product"
+,msdyn_quantity: "msdyn_quantity"
+,msdyn_rma: "msdyn_rma"
+,msdyn_rmaproduct: "msdyn_rmaproduct"
+,msdyn_rtv: "msdyn_rtv"
+,msdyn_totalcreditamount: "msdyn_totalcreditamount"
+,msdyn_unit: "msdyn_unit"
+,msdyn_unitcreditamount: "msdyn_unitcreditamount"
+,msdyn_warehouse: "msdyn_warehouse"
+,msdyn_workorder: "msdyn_workorder"
+,msdyn_workorderproduct: "msdyn_workorderproduct"
+,notescontrol: "notescontrol"
+,ownerid: "ownerid"
+,transactioncurrencyid: "transactioncurrencyid"
+};
+

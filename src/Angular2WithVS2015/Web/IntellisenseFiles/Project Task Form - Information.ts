@@ -1,0 +1,42 @@
+var EntityLogicalName = "msdyn_projecttask";
+var Form_c3feb05f_33ee_4183_8fe4_4b68a97b9ec1_Properties = {
+description: "description"
+,msdyn_assignedresources: "msdyn_assignedresources"
+,msdyn_duration: "msdyn_duration"
+,msdyn_effort: "msdyn_effort"
+,msdyn_numberofresources: "msdyn_numberofresources"
+,msdyn_parenttask: "msdyn_parenttask"
+,msdyn_project: "msdyn_project"
+,msdyn_resourcecategory: "msdyn_resourcecategory"
+,msdyn_scheduledend: "msdyn_scheduledend"
+,msdyn_scheduledstart: "msdyn_scheduledstart"
+,msdyn_subject: "msdyn_subject"
+,msdyn_transactioncategory: "msdyn_transactioncategory"
+,ownerid: "ownerid"
+,prioritycode: "prioritycode"
+,regardingobjectid: "regardingobjectid"
+,statecode: "statecode"
+};
+
+var Form_c3feb05f_33ee_4183_8fe4_4b68a97b9ec1_Controls = {
+description: "description"
+,header_msdyn_scheduledend: "header_msdyn_scheduledend"
+,header_ownerid: "header_ownerid"
+,header_prioritycode: "header_prioritycode"
+,header_statecode: "header_statecode"
+,msdyn_assignedresources: "msdyn_assignedresources"
+,msdyn_duration: "msdyn_duration"
+,msdyn_effort: "msdyn_effort"
+,msdyn_numberofresources: "msdyn_numberofresources"
+,msdyn_parenttask: "msdyn_parenttask"
+,msdyn_project: "msdyn_project"
+,msdyn_resourcecategory: "msdyn_resourcecategory"
+,msdyn_scheduledend: "msdyn_scheduledend"
+,msdyn_scheduledstart: "msdyn_scheduledstart"
+,msdyn_subject: "msdyn_subject"
+,msdyn_transactioncategory: "msdyn_transactioncategory"
+,notescontrol: "notescontrol"
+,ownerid: "ownerid"
+,regardingobjectid: "regardingobjectid"
+};
+

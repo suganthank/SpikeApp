@@ -1,0 +1,40 @@
+var EntityLogicalName = "list";
+var Form_6e77626b_e693_44f0_a1c7_359b1a7a9a4c_Properties = {
+cost: "cost"
+,createdfromcode: "createdfromcode"
+,description: "description"
+,lastusedon: "lastusedon"
+,listname: "listname"
+,lockstatus: "lockstatus"
+,modifiedon: "modifiedon"
+,ownerid: "ownerid"
+,purpose: "purpose"
+,source: "source"
+,transactioncurrencyid: "transactioncurrencyid"
+,type: "type"
+};
+
+var Form_6e77626b_e693_44f0_a1c7_359b1a7a9a4c_Controls = {
+accounts: "accounts"
+,Campaigns: "Campaigns"
+,contacts: "contacts"
+,cost: "cost"
+,createdfromcode: "createdfromcode"
+,description: "description"
+,header_lastusedon: "header_lastusedon"
+,header_lockstatus: "header_lockstatus"
+,header_ownerid: "header_ownerid"
+,lastusedon: "lastusedon"
+,leads: "leads"
+,listname: "listname"
+,lockstatus: "lockstatus"
+,modifiedon: "modifiedon"
+,notescontrol: "notescontrol"
+,ownerid: "ownerid"
+,purpose: "purpose"
+,QuickCampaigns: "QuickCampaigns"
+,source: "source"
+,transactioncurrencyid: "transactioncurrencyid"
+,type: "type"
+};
+

@@ -1,0 +1,42 @@
+var EntityLogicalName = "serviceappointment";
+var Form_75ec0e60_421b_4e71_8f5d_d8de7e0aa04e_Properties = {
+category: "category"
+,customers: "customers"
+,isalldayevent: "isalldayevent"
+,location: "location"
+,ownerid: "ownerid"
+,prioritycode: "prioritycode"
+,regardingobjectid: "regardingobjectid"
+,resources: "resources"
+,scheduleddurationminutes: "scheduleddurationminutes"
+,scheduledend: "scheduledend"
+,scheduledstart: "scheduledstart"
+,serviceid: "serviceid"
+,siteid: "siteid"
+,statecode: "statecode"
+,statuscode: "statuscode"
+,subcategory: "subcategory"
+,subject: "subject"
+};
+
+var Form_75ec0e60_421b_4e71_8f5d_d8de7e0aa04e_Controls = {
+category: "category"
+,customers: "customers"
+,footer_statecode: "footer_statecode"
+,isalldayevent: "isalldayevent"
+,location: "location"
+,notescontrol: "notescontrol"
+,ownerid: "ownerid"
+,prioritycode: "prioritycode"
+,regardingobjectid: "regardingobjectid"
+,resources: "resources"
+,scheduleddurationminutes: "scheduleddurationminutes"
+,scheduledend: "scheduledend"
+,scheduledstart: "scheduledstart"
+,serviceid: "serviceid"
+,siteid: "siteid"
+,statuscode: "statuscode"
+,subcategory: "subcategory"
+,subject: "subject"
+};
+

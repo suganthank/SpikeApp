@@ -1,0 +1,34 @@
+var EntityLogicalName = "msdyn_bookingsetupmetadata";
+var Form_696e4431_5ffb_442c_b83b_2927aa5a361e_Properties = {
+msdyn_bookingrelationshiplogicalname: "msdyn_bookingrelationshiplogicalname"
+,msdyn_bookingstatusfieldlogicalname: "msdyn_bookingstatusfieldlogicalname"
+,msdyn_cancelbookingswhenmoving: "msdyn_cancelbookingswhenmoving"
+,msdyn_defaultbookingcanceledstatus: "msdyn_defaultbookingcanceledstatus"
+,msdyn_defaultbookingcommittedstatus: "msdyn_defaultbookingcommittedstatus"
+,msdyn_defaultbookingduration: "msdyn_defaultbookingduration"
+,msdyn_defaultrequirementactivestatus: "msdyn_defaultrequirementactivestatus"
+,msdyn_defaultrequirementcanceledstatus: "msdyn_defaultrequirementcanceledstatus"
+,msdyn_defaultrequirementcompletedstatus: "msdyn_defaultrequirementcompletedstatus"
+,msdyn_disablerequirementautocreation: "msdyn_disablerequirementautocreation"
+,msdyn_entitylogicalname: "msdyn_entitylogicalname"
+,msdyn_requirementrelationshiplogicalname: "msdyn_requirementrelationshiplogicalname"
+,ownerid: "ownerid"
+};
+
+var Form_696e4431_5ffb_442c_b83b_2927aa5a361e_Controls = {
+msdyn_bookingrelationshiplogicalname: "msdyn_bookingrelationshiplogicalname"
+,msdyn_bookingstatusfieldlogicalname: "msdyn_bookingstatusfieldlogicalname"
+,msdyn_cancelbookingswhenmoving: "msdyn_cancelbookingswhenmoving"
+,msdyn_defaultbookingcanceledstatus: "msdyn_defaultbookingcanceledstatus"
+,msdyn_defaultbookingcommittedstatus: "msdyn_defaultbookingcommittedstatus"
+,msdyn_defaultbookingduration: "msdyn_defaultbookingduration"
+,msdyn_defaultrequirementactivestatus: "msdyn_defaultrequirementactivestatus"
+,msdyn_defaultrequirementcanceledstatus: "msdyn_defaultrequirementcanceledstatus"
+,msdyn_defaultrequirementcompletedstatus: "msdyn_defaultrequirementcompletedstatus"
+,msdyn_disablerequirementautocreation: "msdyn_disablerequirementautocreation"
+,msdyn_entitylogicalname: "msdyn_entitylogicalname"
+,msdyn_requirementrelationshiplogicalname: "msdyn_requirementrelationshiplogicalname"
+,ownerid: "ownerid"
+,WebResource_ScheduleAttributeMapping: "WebResource_ScheduleAttributeMapping"
+};
+

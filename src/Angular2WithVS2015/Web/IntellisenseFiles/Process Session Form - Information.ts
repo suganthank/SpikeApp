@@ -1,0 +1,41 @@
+var EntityLogicalName = "processsession";
+var Form_dbaf6621_b57a_4f9d_b39d_60d5e5285113_Properties = {
+canceledby: "canceledby"
+,canceledon: "canceledon"
+,comments: "comments"
+,completedby: "completedby"
+,completedon: "completedon"
+,createdon: "createdon"
+,name: "name"
+,nextlinkedsessionid: "nextlinkedsessionid"
+,originatingsessionid: "originatingsessionid"
+,ownerid: "ownerid"
+,previouslinkedsessionid: "previouslinkedsessionid"
+,processid: "processid"
+,regardingobjectid: "regardingobjectid"
+,startedby: "startedby"
+,startedon: "startedon"
+,statecode: "statecode"
+,statuscode: "statuscode"
+};
+
+var Form_dbaf6621_b57a_4f9d_b39d_60d5e5285113_Controls = {
+canceledby: "canceledby"
+,canceledon: "canceledon"
+,comments: "comments"
+,completedby: "completedby"
+,completedon: "completedon"
+,createdon: "createdon"
+,footer_statecode: "footer_statecode"
+,name: "name"
+,nextlinkedsessionid: "nextlinkedsessionid"
+,originatingsessionid: "originatingsessionid"
+,ownerid: "ownerid"
+,previouslinkedsessionid: "previouslinkedsessionid"
+,processid: "processid"
+,regardingobjectid: "regardingobjectid"
+,startedby: "startedby"
+,startedon: "startedon"
+,statuscode: "statuscode"
+};
+
